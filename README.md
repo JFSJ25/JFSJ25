@@ -17,20 +17,20 @@ Desarrollador en formación con pasión por aprender nuevas tecnologías. Actual
 - Explorando bases de datos SQL
 
 ## 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JFSJ25&show_icons=true&theme=radical)
 
 ## 🛠️ Proyectos Destacados
-- 🌟 [Próximamente] - ¡Mantente atento a mis futuros proyectos!
+- 🌟 [Próximamente]
 
 ## 📫 Cómo contactarme
 - 💼 LinkedIn: [Tu perfil de LinkedIn]
-- 📧 Email: [tu@email.com]
+- 📧 Email: [juanfernandosanchez24@gmail.com]
 
-## 🌱 Objetivos 2024
-- Dominar Java
+## 🌱 Objetivos 2025
+- Dominar en nivel intermedio Java
 - Crear proyectos full-stack
-- Contribuir a proyectos open source
+- Dominar Python en nivel intermedio
 - Mejorar mis habilidades en bases de datos
 
 ---
-⭐️ ¡No dudes en explorar mis repositorios y contactarme para colaboraciones!
+⭐️ ¡Explora mis repositorios y contáctame para colaboraciones!
