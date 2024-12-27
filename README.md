@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Fernando Sánchez 🌟
 
 ## 👨‍💻 Sobre mí
-Desarrollador en formación con pasión por aprender nuevas tecnologías y resolver problemas con código. Actualmente estudiante universitario en tecnologías de la información, enfocado en construir un sólido conjunto de habilidades técnicas.
+Desarrollador en formación con pasión por aprender nuevas tecnologías. Actualmente estudiante universitario en tecnologías de la información, enfocado en construir habilidades técnicas.
 
 ---
 
@@ -43,7 +43,7 @@ Desarrollador en formación con pasión por aprender nuevas tecnologías y resol
 ---
 
 ## 📫 Cómo contactarme
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil): Fernando Sánchez
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-fernando-sánchez-jumbo): Juan Fernando Sánchez Jumbo
 - 📧 [juanfernandosanchez24@gmail.com](mailto:juanfernandosanchez24@gmail.com)
 
 ---
