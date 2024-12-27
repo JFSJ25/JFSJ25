@@ -1,4 +1,8 @@
-# 👋 ¡Hola! Soy Fernando Sánchez 🌟
+<div align="center">
+  <h1>👋 ¡Hola! Soy Juan Fernando Sánchez</h1>
+</div>
+
+<br>
 
 ## 👨‍💻 Sobre mí
 Desarrollador en formación con pasión por aprender nuevas tecnologías. Actualmente estudiante universitario en tecnologías de la información, enfocado en construir habilidades técnicas.
@@ -53,4 +57,10 @@ Desarrollador en formación con pasión por aprender nuevas tecnologías. Actual
 - 🚀 Crear proyectos full-stack con Python y JavaScript.
 - 🚀 Mejorar mis habilidades en bases de datos y construir aplicaciones dinámicas.
 
-⭐️ ¡Explora mis repositorios y no dudes en contactarme para colaborar o compartir ideas!
+---
+
+<br>
+
+<div align="center">
+  ⭐️ ¡Explora mis repositorios y contáctame para colaborar o compartir ideas! ⭐️
+</div>
