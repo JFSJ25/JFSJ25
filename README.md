@@ -43,7 +43,7 @@ Desarrollador en formación con pasión por aprender nuevas tecnologías. Actual
 ---
 
 ## 📫 Cómo contactarme
-- 💼 [LinkedIn](https://www.linkedin.com/in/juan-fernando-sánchez-jumbo): Juan Fernando Sánchez Jumbo
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-fernando-sánchez-jumbo-645601326): Juan Fernando Sánchez Jumbo
 - 📧 [juanfernandosanchez24@gmail.com](mailto:juanfernandosanchez24@gmail.com)
 
 ---
